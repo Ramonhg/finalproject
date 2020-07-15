@@ -6,3 +6,25 @@
 body {
   padding-top: 56px;
 }
+
+header{
+	color: #ffffff;
+	gradiant
+}
+
+.card-img-top{
+	width: 100%;
+	height: 15rem;
+	object-fit: cover;
+}
+
+@media screen and (min-width: 900px;){
+	.navbar:not(.top-nav-collapse) {
+    background: #78909c !important;
+  } 
+}
+
+.hr-light {
+  border-top: 3px solid #fff;
+  width: 80px;
+}
