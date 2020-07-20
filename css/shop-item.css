@@ -1,0 +1,70 @@
+/*!
+ * Start Bootstrap - Shop Item (https://startbootstrap.com/templates/shop-item)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-shop-item/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+.navbar{
+	height: 4em;
+}
+.row{
+	margin-top: 1.5em;
+}
+.list-group-item.active:not(disable){
+	background-color: #7a8188;
+}
+.card-img-top{
+	height: 26vh;
+	width: 30vw;
+	padding: 2px;
+	background-color: #b3b0b0;
+	float: center;
+	display: inline-block;
+}
+}
+h1 {
+	font-size: 1.5em;
+}
+
+h2{
+	font-size: 1.3em;
+}
+
+
+#more{
+	display: none;
+}
+
+#myBtn{
+	background-color: #ffffff;
+	border: none;
+	color: #d19d1d;
+}
+
+#mas{
+	display: none;
+}
+
+#myBton{
+	background-color: #ffffff;
+	border: none;
+	color: #d19d1d;
+}
+ul {
+	list-style:none; 
+	text-align:center; margin:0;
+}
+ul li {
+	display:inline-block; 
+	zoom:1; 
+	display:inline; 
+	vertical-align:top; 
+	width:32%;
+	margin:10px 1%;
+}
+#linkedin{
+	background-color: #0073b1;
+}
+
